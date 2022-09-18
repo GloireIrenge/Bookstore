@@ -1,7 +1,7 @@
 # Book store :diamond_shape_with_a_dot_inside:
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Math magicians is a website for all fans of Books that allows you to:Display a list of books, to Add a book and to remove a selected book.
+Book store is a website for all fans of Books that allows you to Display a list of books, to Add a book and to remove a selected book.
 ## Built With
 - Javascript,
 - Node.js

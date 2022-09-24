@@ -1,5 +1,5 @@
 :root {
-  --button-bg: rgb(90, 97, 238);
+  --button-bg: rgb(67, 75, 236);
   --btnTextColor: rgb(245, 232, 232);
   --grey-border: #e8e8e8;
 }
@@ -15,21 +15,6 @@
   padding-bottom: 140px;;
 }
 
-.Addbook-btn {
-  color: var(--btnTextColor);
-  width: 8.938rem;
-  height: 1.125rem;
-  font-family: 'RobotoSlab', sans-serif;
-  font-size: 0.813rem;
-  font-weight: bold;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: 0.5px;
-  text-align: center;
-  border: none;
-  padding: 20px;
-}
 
 .hline {
   border: solid 1px var(--grey-border);

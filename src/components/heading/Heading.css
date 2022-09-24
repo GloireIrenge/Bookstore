@@ -16,6 +16,14 @@
   color: rgb(67, 75, 236);
 }
 
+.nav {
+  display: flex;
+  align-items: center;
+  column-gap: 1%;
+  width: 60%;
+  margin-left: 7%;
+  margin-top: 2%;
+}
 
 .store {
   width: 15rem;

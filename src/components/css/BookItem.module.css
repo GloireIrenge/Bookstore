@@ -1,0 +1,25 @@
+.BookContainer {
+  width: 70%;
+  margin: 0 auto;
+  font-size: 15px;
+  background-color: #ffff;
+  display: flex;
+  padding: 1em;
+  justify-content: space-around;
+}
+
+.BookContainer .BookInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.BookContainer .BookInfo ul {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+  padding-top: 1em;
+}
+
+.BookContainer .BookInfo ul li a {
+  text-decoration: none;
+}
